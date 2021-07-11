@@ -1,4 +1,4 @@
-
+package com.test.BinarySearch;
 
 public class BinarySearch {
     public static int binarySearch(int[] arr, int target){
@@ -7,13 +7,16 @@ public class BinarySearch {
             if(mid == target)
                 return mid;
             if(mid<target){
-                right = mid-1;
-            }
-            else{
                 left = mid+1;
             }
+            else{
+                right = mid-1;
+            }
             mid = (left+right)/2;
+
         }
+        if(mid == target)
+            return mid;
         return -1;
     }
 }
