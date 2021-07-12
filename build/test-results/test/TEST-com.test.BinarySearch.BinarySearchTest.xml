@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.test.BinarySearch.BinarySearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-11T15:09:48" hostname="david-desktop" time="0.032">
+<testsuite name="com.test.BinarySearch.BinarySearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-12T04:31:46" hostname="david-desktop" time="0.031">
   <properties/>
-  <testcase name="binarySearch" classname="com.test.BinarySearch.BinarySearchTest" time="0.032"/>
+  <testcase name="binarySearch" classname="com.test.BinarySearch.BinarySearchTest" time="0.031"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

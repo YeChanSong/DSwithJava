@@ -4,8 +4,6 @@ import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.*;
 
-
-
 public class BinarySearchTest {
 
     @Test
@@ -16,8 +14,8 @@ public class BinarySearchTest {
             arr1[i] = i;
         }
         int target = 8;
-
         assertThat(target).isEqualTo(BinarySearch.binarySearch(arr1,target));
-
+        assertThat(0).isEqualTo(BinarySearch.binarySearch(arr1,0));
+        assertThat(19).isEqualTo(BinarySearch.binarySearch(arr1,19));
     }
 }
