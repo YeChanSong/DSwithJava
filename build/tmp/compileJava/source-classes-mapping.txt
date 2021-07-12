@@ -1,2 +1,7 @@
 com/test/BinarySearch/BinarySearch.java
  com.test.BinarySearch.BinarySearch
+com/test/BinarySearch/ClassBinarySearch.java
+ com.test.BinarySearch.ClassBinarySearch
+ com.test.BinarySearch.ClassBinarySearch$PhyscData
+ com.test.BinarySearch.ClassBinarySearch$PhyscData$HeightOrderComparator
+ com.test.BinarySearch.ClassBinarySearch$PhyscData$VisionOrderComparator

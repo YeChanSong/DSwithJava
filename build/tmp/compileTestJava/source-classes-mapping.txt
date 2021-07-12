@@ -1,2 +1,4 @@
 com/test/BinarySearch/BinarySearchTest.java
  com.test.BinarySearch.BinarySearchTest
+com/test/BinarySearch/ClassBinarySearchTest.java
+ com.test.BinarySearch.ClassBinarySearchTest
