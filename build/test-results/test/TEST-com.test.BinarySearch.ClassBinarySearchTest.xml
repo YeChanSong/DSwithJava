@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.test.BinarySearch.ClassBinarySearchTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-07-12T06:35:13" hostname="david-desktop" time="0.027">
-  <properties/>
-  <testcase name="classBinTest_HEIGHT_ORDER" classname="com.test.BinarySearch.ClassBinarySearchTest" time="0.027"/>
-  <testcase name="classBinTest_VISION_ORDER" classname="com.test.BinarySearch.ClassBinarySearchTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

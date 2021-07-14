@@ -2,3 +2,9 @@ com/test/BinarySearch/BinarySearchTest.java
  com.test.BinarySearch.BinarySearchTest
 com/test/BinarySearch/ClassBinarySearchTest.java
  com.test.BinarySearch.ClassBinarySearchTest
+com/test/StackQueue/StackTest.java
+ com.test.StackQueue.StackTest
+com/test/StackQueue/QueueTest.java
+ com.test.StackQueue.QueueTest
+com/test/Recursive/EuclidGCDTest.java
+ com.test.Recursive.EuclidGCDTest

@@ -5,3 +5,9 @@ com/test/BinarySearch/ClassBinarySearch.java
  com.test.BinarySearch.ClassBinarySearch$PhyscData
  com.test.BinarySearch.ClassBinarySearch$PhyscData$HeightOrderComparator
  com.test.BinarySearch.ClassBinarySearch$PhyscData$VisionOrderComparator
+com/test/StackQueue/Queue.java
+ com.test.StackQueue.Queue
+ com.test.StackQueue.Queue$EmptyQueueException
+ com.test.StackQueue.Queue$OverflowQueueException
+com/test/Recursive/EuclidGCD.java
+ com.test.Recursive.EuclidGCD
