@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.test.Recursive.EuclidGCDTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-14T08:39:40" hostname="david-Laptop" time="0.046">
-  <properties/>
-  <testcase name="getArrayGCD" classname="com.test.Recursive.EuclidGCDTest" time="0.046"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

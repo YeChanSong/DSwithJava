@@ -8,3 +8,5 @@ com/test/StackQueue/QueueTest.java
  com.test.StackQueue.QueueTest
 com/test/Recursive/EuclidGCDTest.java
  com.test.Recursive.EuclidGCDTest
+com/test/Recursive/NQueenTest.java
+ com.test.Recursive.NQueenTest

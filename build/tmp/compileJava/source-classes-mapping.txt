@@ -11,3 +11,5 @@ com/test/StackQueue/Queue.java
  com.test.StackQueue.Queue$OverflowQueueException
 com/test/Recursive/EuclidGCD.java
  com.test.Recursive.EuclidGCD
+com/test/Recursive/NQueen.java
+ com.test.Recursive.NQueen
