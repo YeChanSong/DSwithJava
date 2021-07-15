@@ -10,3 +10,7 @@ com/test/Recursive/EuclidGCDTest.java
  com.test.Recursive.EuclidGCDTest
 com/test/Recursive/NQueenTest.java
  com.test.Recursive.NQueenTest
+com/test/Sorting/BubbleSortTest.java
+ com.test.Sorting.BubbleSortTest
+com/test/Sorting/SelectionSortTest.java
+ com.test.Sorting.SelectionSortTest

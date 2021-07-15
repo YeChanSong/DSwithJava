@@ -1,3 +1,5 @@
+com/test/Recursive/NQueen.java
+ com.test.Recursive.NQueen
 com/test/BinarySearch/BinarySearch.java
  com.test.BinarySearch.BinarySearch
 com/test/BinarySearch/ClassBinarySearch.java
@@ -5,11 +7,17 @@ com/test/BinarySearch/ClassBinarySearch.java
  com.test.BinarySearch.ClassBinarySearch$PhyscData
  com.test.BinarySearch.ClassBinarySearch$PhyscData$HeightOrderComparator
  com.test.BinarySearch.ClassBinarySearch$PhyscData$VisionOrderComparator
+com/test/StackQueue/Stack.java
+ com.test.StackQueue.Stack
+ com.test.StackQueue.Stack$EmptyStackException
+ com.test.StackQueue.Stack$OverflowStackException
 com/test/StackQueue/Queue.java
  com.test.StackQueue.Queue
  com.test.StackQueue.Queue$EmptyQueueException
  com.test.StackQueue.Queue$OverflowQueueException
+com/test/Sorting/BubbleSort.java
+ com.test.Sorting.BubbleSort
 com/test/Recursive/EuclidGCD.java
  com.test.Recursive.EuclidGCD
-com/test/Recursive/NQueen.java
- com.test.Recursive.NQueen
+com/test/Sorting/SelectionSort.java
+ com.test.Sorting.SelectionSort
