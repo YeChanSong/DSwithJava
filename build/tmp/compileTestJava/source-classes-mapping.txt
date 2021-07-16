@@ -14,3 +14,5 @@ com/test/Sorting/BubbleSortTest.java
  com.test.Sorting.BubbleSortTest
 com/test/Sorting/SelectionSortTest.java
  com.test.Sorting.SelectionSortTest
+com/test/Sorting/InsertionSortTest.java
+ com.test.Sorting.InsertionSortTest

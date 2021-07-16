@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test.Sorting.InsertionSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-16T06:45:55" hostname="david-Laptop" time="0.051">
+  <properties/>
+  <testcase name="insertionSort" classname="com.test.Sorting.InsertionSortTest" time="0.051"/>
+  <system-out><![CDATA[70 53 20 50 80 49 78 57 14 59 80 74 9 15 36 45 2 54 48 97 
+
+2 9 14 15 20 36 45 48 49 50 53 54 57 59 70 74 78 80 80 97 
+
+2 9 14 15 20 36 45 48 49 50 53 54 57 59 70 74 78 80 80 97 
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

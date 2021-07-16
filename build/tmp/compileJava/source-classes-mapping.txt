@@ -21,3 +21,5 @@ com/test/Recursive/EuclidGCD.java
  com.test.Recursive.EuclidGCD
 com/test/Sorting/SelectionSort.java
  com.test.Sorting.SelectionSort
+com/test/Sorting/InsertionSort.java
+ com.test.Sorting.InsertionSort
