@@ -4,12 +4,13 @@ import org.junit.Test;
 
 import java.util.Arrays;
 import java.util.Random;
+
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class QuickSortTest {
+public class MergeSortTest {
 
     @Test
-    public void quickSort() {
+    public void mergeSort() {
         Random rand = new Random(System.currentTimeMillis());
         StringBuilder sb = new StringBuilder();
         int[] arr = new int[20];
@@ -20,7 +21,7 @@ public class QuickSortTest {
         System.out.println(sb.toString());
         int[] comp = arr.clone();
         Arrays.sort(comp);
-        QuickSort.quickSort(arr,0,arr.length-1);
+        arr = MergeSort.mergeSort(arr,0,arr.length-1);
         sb = new StringBuilder();
         StringBuilder sb2 = new StringBuilder();
         for(int i=0;i<20;i++){
@@ -32,7 +33,5 @@ public class QuickSortTest {
         for(int i=0;i<20;i++){
             assertThat(arr[i]).isEqualTo(comp[i]);
         }
-
-
     }
 }

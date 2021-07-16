@@ -25,3 +25,5 @@ com/test/Sorting/InsertionSort.java
  com.test.Sorting.InsertionSort
 com/test/Sorting/QuickSort.java
  com.test.Sorting.QuickSort
+com/test/Sorting/MergeSort.java
+ com.test.Sorting.MergeSort
