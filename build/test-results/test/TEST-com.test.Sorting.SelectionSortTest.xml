@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test.Sorting.SelectionSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-17T06:48:11" hostname="david-Laptop" time="0.004">
+  <properties/>
+  <testcase name="selectionSort" classname="com.test.Sorting.SelectionSortTest" time="0.004"/>
+  <system-out><![CDATA[20 21 44 37 88 87 44 92 41 74 29 64 57 13 66 43 54 42 62 43
+13 20 21 29 37 41 42 43 43 44 44 54 57 62 64 66 74 87 88 92
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

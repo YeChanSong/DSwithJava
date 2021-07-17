@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test.Sorting.BubbleSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-17T06:48:11" hostname="david-Laptop" time="0.002">
+  <properties/>
+  <testcase name="bubbleSort" classname="com.test.Sorting.BubbleSortTest" time="0.002"/>
+  <system-out><![CDATA[60 29 53 8 48 26 80 59 1 48 92 48 51 23 19 39 52 57 66 44
+1 8 19 23 26 29 39 44 48 48 48 51 52 53 57 59 60 66 80 92
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
