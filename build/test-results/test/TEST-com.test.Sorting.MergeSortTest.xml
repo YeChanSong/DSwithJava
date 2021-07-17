@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test.Sorting.MergeSortTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-17T06:48:11" hostname="david-Laptop" time="0.002">
+  <properties/>
+  <testcase name="mergeSort" classname="com.test.Sorting.MergeSortTest" time="0.002"/>
+  <system-out><![CDATA[62 33 79 72 52 78 99 44 44 21 55 78 30 21 33 95 37 10 88 71 
+10 21 21 30 33 33 37 44 44 52 55 62 71 72 78 78 79 88 95 99 
+10 21 21 30 33 33 37 44 44 52 55 62 71 72 78 78 79 88 95 99 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

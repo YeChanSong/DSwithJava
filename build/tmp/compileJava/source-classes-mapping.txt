@@ -29,3 +29,5 @@ com/test/Sorting/MergeSort.java
  com.test.Sorting.MergeSort
 com/test/Sorting/HeapSort.java
  com.test.Sorting.HeapSort
+com/test/Sorting/CountingSort.java
+ com.test.Sorting.CountingSort
